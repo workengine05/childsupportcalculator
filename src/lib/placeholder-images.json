@@ -1,3 +1,28 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-family",
+      "description": "A happy family outdoors, representing the goal of child support.",
+      "imageUrl": "https://picsum.photos/seed/family1/800/600",
+      "imageHint": "happy family"
+    },
+    {
+      "id": "blog-post-1",
+      "description": "An image of a gavel and a calculator, representing law and finance.",
+      "imageUrl": "https://picsum.photos/seed/blog1/600/400",
+      "imageHint": "law finance"
+    },
+    {
+      "id": "blog-post-2",
+      "description": "A person looking at a document with a magnifying glass.",
+      "imageUrl": "https://picsum.photos/seed/blog2/600/400",
+      "imageHint": "document review"
+    },
+    {
+      "id": "blog-post-3",
+      "description": "A maze or puzzle, representing complexity.",
+      "imageUrl": "https://picsum.photos/seed/blog3/600/400",
+      "imageHint": "maze puzzle"
+    }
+  ]
 }
