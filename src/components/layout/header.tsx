@@ -1,7 +1,7 @@
 "use client";
 
 import Link from 'next/link';
-import { Landmark } from 'lucide-react';
+import { Calculator } from 'lucide-react';
 
 export default function Header() {
   return (
@@ -9,7 +9,7 @@ export default function Header() {
       <div className="container mx-auto px-4">
         <div className="flex justify-between items-center h-16">
           <Link href="/" className="flex items-center gap-2">
-            <Landmark className="h-7 w-7 text-primary" />
+            <Calculator className="h-7 w-7 text-primary" />
             <span className="text-xl font-bold text-foreground">
               State Support
             </span>
