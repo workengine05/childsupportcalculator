@@ -4,8 +4,8 @@
 
 @layer base {
   :root {
-    --background: 220 17% 95%; /* #F0F2F5 */
-    --foreground: 224 71% 4%;
+    --background: 210 40% 98%; /* #F8F9FA */
+    --foreground: 224 71% 4%; /* #0A2540 */
 
     --card: 0 0% 100%;
     --card-foreground: 224 71% 4%;
@@ -13,30 +13,30 @@
     --popover: 0 0% 100%;
     --popover-foreground: 224 71% 4%;
 
-    --primary: 201 28% 59%; /* #74A4BC */
-    --primary-foreground: 210 40% 98%;
+    --primary: 217 91% 60%; /* #3F83F8 */
+    --primary-foreground: 0 0% 100%;
 
-    --secondary: 220 16% 91%;
+    --secondary: 210 40% 96.1%;
     --secondary-foreground: 224 71% 4%;
 
-    --muted: 220 16% 91%;
-    --muted-foreground: 220 9% 46%;
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215 28% 45%;
 
-    --accent: 25 43% 54%; /* #C08457 */
-    --accent-foreground: 0 0% 100%;
+    --accent: 173 95% 41%; /* #14D1A4 */
+    --accent-foreground: 0 0% 0%;
 
     --destructive: 0 84.2% 60.2%;
     --destructive-foreground: 0 0% 98%;
 
-    --border: 220 13% 89%;
-    --input: 220 13% 89%;
-    --ring: 201 28% 59%;
+    --border: 214 32% 91%;
+    --input: 214 32% 91%;
+    --ring: 217 91% 60%;
 
-    --chart-1: 12 76% 61%;
-    --chart-2: 173 58% 39%;
-    --chart-3: 197 37% 24%;
-    --chart-4: 43 74% 66%;
-    --chart-5: 27 87% 67%;
+    --chart-1: 217 91% 60%;
+    --chart-2: 173 95% 41%;
+    --chart-3: 43 74% 66%;
+    --chart-4: 25 43% 54%;
+    --chart-5: 280 65% 60%;
 
     --radius: 0.5rem;
   }
@@ -51,8 +51,8 @@
     --popover: 224 71% 4%;
     --popover-foreground: 210 40% 98%;
 
-    --primary: 201 28% 59%;
-    --primary-foreground: 210 40% 98%;
+    --primary: 217 91% 60%;
+    --primary-foreground: 0 0% 100%;
 
     --secondary: 222 47% 11%;
     --secondary-foreground: 210 40% 98%;
@@ -60,21 +60,21 @@
     --muted: 222 47% 11%;
     --muted-foreground: 215 28% 65%;
 
-    --accent: 25 43% 54%;
-    --accent-foreground: 0 0% 100%;
+    --accent: 173 95% 41%;
+    --accent-foreground: 0 0% 0%;
 
     --destructive: 0 62.8% 30.6%;
     --destructive-foreground: 0 0% 98%;
 
     --border: 222 47% 11%;
     --input: 222 47% 11%;
-    --ring: 201 28% 59%;
+    --ring: 217 91% 60%;
 
-    --chart-1: 220 70% 50%;
-    --chart-2: 160 60% 45%;
-    --chart-3: 30 80% 55%;
-    --chart-4: 280 65% 60%;
-    --chart-5: 340 75% 55%;
+    --chart-1: 217 91% 60%;
+    --chart-2: 173 95% 41%;
+    --chart-3: 43 74% 66%;
+    --chart-4: 25 43% 54%;
+    --chart-5: 280 65% 60%;
   }
 }
 

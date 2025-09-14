@@ -85,7 +85,7 @@ export default async function StatePage({ params }: { params: { slug: string } }
       />
       <div className="container mx-auto px-4 py-8 md:py-12">
         <div className="text-center mb-12">
-          <h1 className="text-4xl md:text-5xl font-bold font-headline text-primary">
+          <h1 className="text-4xl md:text-5xl font-bold font-headline text-foreground">
             {state.name} Child Support Calculator
           </h1>
           <p className="text-lg md:text-xl text-muted-foreground max-w-3xl mx-auto mt-2">
