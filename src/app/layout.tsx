@@ -33,6 +33,7 @@ export default function RootLayout({
           href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
           rel="stylesheet"
         />
+        <meta name="google-site-verification" content="p9MJzu7-iZd5bzD-YHBM840HaChjEN4GEHouHGWEiaY" />
       </head>
       <body className="font-body antialiased flex flex-col min-h-screen">
         <Header />
