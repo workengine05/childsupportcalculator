@@ -3,7 +3,7 @@ import { states } from '@/lib/states';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   // TODO: Replace with actual domain
-  const siteUrl = 'https://childsupportcalculator.org';
+  const siteUrl = 'https://childsupportcalculators.vercel.app/';
 
   const stateRoutes = states.map((state) => ({
     url: `${siteUrl}/${state.slug}`,
